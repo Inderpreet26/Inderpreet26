@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Inderpreet Singh 👋
-### 🚀 DevOps Engineer in Training | Cloud Enthusiast | Open Source Lover
+### 🚀 DevOps Engineer | Cloud Enthusiast | Open Source Lover
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D09C&center=true&vCenter=true&width=600&lines=DevOps+Engineer+in+Training+%F0%9F%9A%80;Cloud+%7C+CI%2FCD+%7C+Automation+%E2%9A%99%EF%B8%8F;Learning+Every+Day+%F0%9F%93%9A;Building+Cool+Stuff+%F0%9F%94%A5)](https://git.io/typing-svg)
 
