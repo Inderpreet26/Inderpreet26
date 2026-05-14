@@ -9,23 +9,18 @@
 ---
 
 <div align="center">
-
-### 🧑‍💻 About Me
-
+🧑‍💻 About Me
 </div>
-
-```yaml
-Name     :  Inderpreet Singh Makkar
-Role     :  DevOps Engineer
-Location :  India
-Focus    :  Cloud Infrastructure · CI/CD Pipelines · Automation · Linux
-Learning :  Docker · Kubernetes · AWS · Jenkins · Terraform
-Motto    :  "Automate everything. Document everything. Break nothing."
-```
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Inderpreet26&bg_color=0d1117&color=a855f7&line=ec4899&point=6366f1&area=true&hide_border=true" />
+<table>
+<tr>
+<td valign="center" width="50%">
+📍 India
+</td>
+<td align="right" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250"/>
+</td>
+</tr>
+</table>
 ---
 
 <div align="center">
