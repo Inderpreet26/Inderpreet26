@@ -7,7 +7,7 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/Inderpreet26/Inderpreet26/output/github-contribution-grid-snake-dark.svg" />
+<!-- <img src="https://raw.githubusercontent.com/Inderpreet26/Inderpreet26/output/github-contribution-grid-snake-dark.svg" /> -->
 
 ---
 
