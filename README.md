@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:ec4899&height=200&section=header&text=Inderpreet%20Singh%20Makkar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation%20%7C%20CI%2FCD&descAlignY=58&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Inderpreet+%F0%9F%91%8B;Automating+the+boring+stuff+since+day+one)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Automating+the+boring+stuff+since+day+one)](https://git.io/typing-svg)
 
 </div>
 
