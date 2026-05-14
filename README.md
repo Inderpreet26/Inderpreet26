@@ -70,7 +70,6 @@ Motto    :  "Automate everything. Document everything. Break nothing."
 
 </div>
 
----
 
 <div align="center">
 
