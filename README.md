@@ -74,15 +74,7 @@ Motto    :  "Automate everything. Document everything. Break nothing."
 
 <div align="center">
 
-### 📊 GitHub Stats
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Inderpreet26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a855f7&icon_color=ec4899&text_color=ffffff&ring_color=6366f1" height="175"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inderpreet26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff" height="175"/>
-
-</div>
 
 ---
 
