@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Infrastructure+as+Code+%E2%80%94+because+clicking+is+not+a+deployment+strategy.;Ship+faster.+Break+nothing.+Automate+everything.;kubectl+apply+-f+life.yaml;git+push+origin+production+%28with+a+pipeline+backing+you+up%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=IaC+%E2%80%94+because+clicking+is+not+a+strategy.;Ship+faster.+Break+nothing.+Automate+everything.;kubectl+apply+-f+life.yaml;Pipelines+don%27t+lie.+Humans+do.)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,11 +12,13 @@
 
 <div align="center">
 
-### `whoami`
+### 👨‍💻 About Me
 
 </div>
 
-> DevOps Engineer at **Wipro** focused on building resilient cloud infrastructure, streamlining CI/CD pipelines, and eliminating toil through automation. I design systems that are observable, scalable, and built to survive production.
+<br/>
+
+DevOps Engineer at **Wipro** — building resilient cloud infrastructure, streamlining CI/CD pipelines, and eliminating toil through automation. I design systems that are observable, scalable, and built to survive production.
 
 ---
 
