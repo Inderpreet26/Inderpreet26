@@ -18,7 +18,7 @@
 
 <br/>
 
-DevOps Engineer at **Wipro**, building resilient cloud infrastructure, streamlining CI/CD pipelines, and eliminating toil through automation. I design systems that are observable, scalable, and built to survive production.
+DevOps Engineer at **Wipro** — building resilient cloud infrastructure, streamlining CI/CD pipelines, and eliminating toil through automation. I design systems that are observable, scalable, and built to survive production.
 
 ---
 
@@ -83,7 +83,7 @@ DevOps Engineer at **Wipro**, building resilient cloud infrastructure, streamlin
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-1a1a2e?style=for-the-badge&logo=elasticsearch&logoColor=00BFB3)
 ![Kibana](https://img.shields.io/badge/Kibana-1a1a2e?style=for-the-badge&logo=kibana&logoColor=E8488B)
 ![Logstash](https://img.shields.io/badge/Logstash-1a1a2e?style=for-the-badge&logo=logstash&logoColor=FEC514)
-
+![CloudWatch Logs](https://img.shields.io/badge/CloudWatch_Logs-232F3E?style=for-the-badge&logo=amazoncloudwatch&logoColor=FF9900)
 
 <br/>
 
@@ -110,7 +110,7 @@ DevOps Engineer at **Wipro**, building resilient cloud infrastructure, streamlin
 ![Nginx](https://img.shields.io/badge/Nginx-1a1a2e?style=for-the-badge&logo=nginx&logoColor=009639)
 ![Apache](https://img.shields.io/badge/Apache-1a1a2e?style=for-the-badge&logo=apache&logoColor=D22128)
 ![Tomcat](https://img.shields.io/badge/Tomcat-1a1a2e?style=for-the-badge&logo=apachetomcat&logoColor=F8DC75)
-
+![HAProxy](https://img.shields.io/badge/HAProxy-1a1a2e?style=for-the-badge&logo=haproxy&logoColor=E85C0D)
 
 <br/>
 
@@ -139,7 +139,7 @@ DevOps Engineer at **Wipro**, building resilient cloud infrastructure, streamlin
 ![Postman](https://img.shields.io/badge/Postman-1a1a2e?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![Jira](https://img.shields.io/badge/Jira-1a1a2e?style=for-the-badge&logo=jira&logoColor=2684FF)
 ![Confluence](https://img.shields.io/badge/Confluence-1a1a2e?style=for-the-badge&logo=confluence&logoColor=2684FF)
-
+![Slack](https://img.shields.io/badge/Slack-1a1a2e?style=for-the-badge&logo=slack&logoColor=E01E5A)
 
 ---
 
@@ -166,10 +166,11 @@ DevOps Engineer at **Wipro**, building resilient cloud infrastructure, streamlin
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inderpreet-singh-makkar/)
+<a href="https://www.linkedin.com/in/inderpreet-singh-makkar/">
+  <img src="https://img.shields.io/badge/%20Connect%20with%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+</a>
 
-
-<br/>
+<br/><br/>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Inderpreet26&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
 
