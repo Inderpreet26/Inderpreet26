@@ -32,16 +32,17 @@ DevOps Engineer at **Wipro** — building resilient cloud infrastructure, stream
 
 **☁️ Cloud Platforms**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![EC2](https://img.shields.io/badge/EC2-232F3E?style=for-the-badge&logo=amazonec2&logoColor=FF9900)
-![S3](https://img.shields.io/badge/S3-232F3E?style=for-the-badge&logo=amazons3&logoColor=569A31)
-![Lambda](https://img.shields.io/badge/Lambda-232F3E?style=for-the-badge&logo=awslambda&logoColor=FF9900)
-![EKS](https://img.shields.io/badge/EKS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![ECR](https://img.shields.io/badge/ECR-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![IAM](https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-232F3E?style=for-the-badge&logo=amazoncloudwatch&logoColor=FF4F8B)
-![Route53](https://img.shields.io/badge/Route_53-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logoColor=232F3E)
+![S3](https://img.shields.io/badge/S3-FF9900?style=for-the-badge&logoColor=232F3E)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=232F3E)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logoColor=232F3E)
+![ECR](https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logoColor=232F3E)
+![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logoColor=232F3E)
+![VPC](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logoColor=232F3E)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=232F3E)
+![Route53](https://img.shields.io/badge/Route_53-FF9900?style=for-the-badge&logoColor=232F3E)
+![Secrets Manager](https://img.shields.io/badge/Secrets_Manager-FF9900?style=for-the-badge&logoColor=232F3E)
 
 <br/>
 
@@ -82,7 +83,7 @@ DevOps Engineer at **Wipro** — building resilient cloud infrastructure, stream
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-1a1a2e?style=for-the-badge&logo=elasticsearch&logoColor=00BFB3)
 ![Kibana](https://img.shields.io/badge/Kibana-1a1a2e?style=for-the-badge&logo=kibana&logoColor=E8488B)
 ![Logstash](https://img.shields.io/badge/Logstash-1a1a2e?style=for-the-badge&logo=logstash&logoColor=FEC514)
-![CloudWatch Logs](https://img.shields.io/badge/CloudWatch_Logs-232F3E?style=for-the-badge&logo=amazoncloudwatch&logoColor=FF4F8B)
+![CloudWatch Logs](https://img.shields.io/badge/CloudWatch_Logs-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=232F3E)
 
 <br/>
 
@@ -99,7 +100,6 @@ DevOps Engineer at **Wipro** — building resilient cloud infrastructure, stream
 **🔐 Security & Secrets Management**
 
 ![Vault](https://img.shields.io/badge/HashiCorp_Vault-1a1a2e?style=for-the-badge&logo=vault&logoColor=FFEC6E)
-![Secrets Manager](https://img.shields.io/badge/Secrets_Manager-232F3E?style=for-the-badge&logo=amazonsecretmanager&logoColor=FF9900)
 ![Trivy](https://img.shields.io/badge/Trivy-1a1a2e?style=for-the-badge&logo=aquasec&logoColor=1904DA)
 ![OWASP](https://img.shields.io/badge/OWASP-1a1a2e?style=for-the-badge&logo=owasp&logoColor=aaaaaa)
 
