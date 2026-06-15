@@ -127,6 +127,7 @@ DevOps Engineer at **Wipro**, building resilient cloud infrastructure, streamlin
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-1a1a2e?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 ![YAML](https://img.shields.io/badge/YAML-1a1a2e?style=for-the-badge&logo=yaml&logoColor=CB171E)
+![HCL](https://img.shields.io/badge/HCL-1a1a2e?style=for-the-badge&logo=terraform&logoColor=7B42BC)
 ![Groovy](https://img.shields.io/badge/Groovy-1a1a2e?style=for-the-badge&logo=apachegroovy&logoColor=4298B8)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=009688)
 
