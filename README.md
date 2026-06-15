@@ -71,13 +71,14 @@ DevOps Engineer at **Wipro**, building resilient cloud infrastructure, streamlin
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-1a1a2e?style=for-the-badge&logo=argo&logoColor=EF7B4D)
 ![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=ffffff)
-![SonarQube](https://img.shields.io/badge/SonarQube-1a1a2e?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+![SonarQube](https://img.shields.io/badge/SonarQube-1a1a2e?style=for-the-badge&logo=sonar&logoColor=4E9BCD)
 ![Nexus](https://img.shields.io/badge/Nexus-1a1a2e?style=for-the-badge&logo=sonatype&logoColor=aaaaaa)
 
 <br/>
 
 **📊 Monitoring, Observability & Logging**
 
+![Datadog](https://img.shields.io/badge/Datadog-1a1a2e?style=for-the-badge&logo=datadog&logoColor=632CA6)
 ![Prometheus](https://img.shields.io/badge/Prometheus-1a1a2e?style=for-the-badge&logo=prometheus&logoColor=E6522C)
 ![Grafana](https://img.shields.io/badge/Grafana-1a1a2e?style=for-the-badge&logo=grafana&logoColor=F46800)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-1a1a2e?style=for-the-badge&logo=elasticsearch&logoColor=00BFB3)
