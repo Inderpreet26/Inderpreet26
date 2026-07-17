@@ -139,24 +139,6 @@ DevOps Engineer at **Wipro**, building resilient cloud infrastructure, streamlin
 ![Jira](https://img.shields.io/badge/Jira-1a1a2e?style=for-the-badge&logo=jira&logoColor=2684FF)
 ![Confluence](https://img.shields.io/badge/Confluence-1a1a2e?style=for-the-badge&logo=confluence&logoColor=2684FF)
 
-
----
-
-<div align="center">
-
-## 📈 GitHub Stats
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Inderpreet26&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inderpreet26&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Inderpreet26&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 <div align="center">
